@@ -6,7 +6,7 @@ import jade.core.Agent;
  */
 public class EjerAgent03 extends Agent 
 {
-    protected void setup()
+    protected void setup ()
     {
         comporta03 objAg = new comporta03();
         addBehaviour(objAg);
